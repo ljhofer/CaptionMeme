@@ -1,5 +1,4 @@
 # CaptionMe(me)
-Bootcamp Group Project #2
 
 # Professional README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
